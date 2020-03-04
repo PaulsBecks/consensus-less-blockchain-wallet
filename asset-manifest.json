@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/consensus-less-blockchain-wallet/static/css/main.6a828a52.chunk.css",
+    "main.js": "/consensus-less-blockchain-wallet/static/js/main.2b24fd6d.chunk.js",
+    "main.js.map": "/consensus-less-blockchain-wallet/static/js/main.2b24fd6d.chunk.js.map",
+    "runtime-main.js": "/consensus-less-blockchain-wallet/static/js/runtime-main.950a62b3.js",
+    "runtime-main.js.map": "/consensus-less-blockchain-wallet/static/js/runtime-main.950a62b3.js.map",
+    "static/js/2.2dd70f66.chunk.js": "/consensus-less-blockchain-wallet/static/js/2.2dd70f66.chunk.js",
+    "static/js/2.2dd70f66.chunk.js.map": "/consensus-less-blockchain-wallet/static/js/2.2dd70f66.chunk.js.map",
+    "index.html": "/consensus-less-blockchain-wallet/index.html",
+    "precache-manifest.71db9ec167bf8199ecb6952183eb865c.js": "/consensus-less-blockchain-wallet/precache-manifest.71db9ec167bf8199ecb6952183eb865c.js",
+    "service-worker.js": "/consensus-less-blockchain-wallet/service-worker.js",
+    "static/css/main.6a828a52.chunk.css.map": "/consensus-less-blockchain-wallet/static/css/main.6a828a52.chunk.css.map",
+    "static/js/2.2dd70f66.chunk.js.LICENSE.txt": "/consensus-less-blockchain-wallet/static/js/2.2dd70f66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950a62b3.js",
+    "static/js/2.2dd70f66.chunk.js",
+    "static/css/main.6a828a52.chunk.css",
+    "static/js/main.2b24fd6d.chunk.js"
+  ]
+}
