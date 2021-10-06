@@ -26,3 +26,5 @@ jobs:
         # You may pin to the exact commit or the version.
         # uses: KeisukeYamashita/auto-dependabot-pull-request-merge@a7ac708f2c3b0c28e86ad099d6ce7f2a5219fd94
         uses: KeisukeYamashita/auto-dependabot-pull-request-merge@v1
+        with:
+          pullRequestNumber: ${{ github.event.pull_request.number }}
